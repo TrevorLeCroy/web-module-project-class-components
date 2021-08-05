@@ -1,0 +1,9 @@
+.item-completed {
+    text-decoration: line-through;
+    color: green;
+}
+
+.item {
+    text-decoration: none;
+}
+
